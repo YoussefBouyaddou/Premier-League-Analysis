@@ -1,6 +1,6 @@
 # Premier-League-Analysis
 
-* Check interactive graphs:
+Check interactive graphs:
 * [Club points Ranking graph](http://htmlpreview.github.io/?https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/Club%20points%20Ranking%20graph.html).
 * [Clubs Goals Differences graph](http://htmlpreview.github.io/?https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/Clubs%20Goals%20Differences.html).
 * [Attack vs Deffence graph](http://htmlpreview.github.io/?https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/Attack%20vs%20Defense.html).
