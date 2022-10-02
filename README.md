@@ -7,7 +7,7 @@
 * you can check the first one [here](https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/premier%20league%20analysis%20using%20seaborn.ipynb)
 * to check the plotly notebook click [here](https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/premier%20league%20interactive.ipynb)
 
-**Note** in github interractive graphs can't be displayed in notebooks so you can check them here:
+**Note:** in github interractive graphs can't be displayed in notebooks so you can check them here:
 * [Club points Ranking graph](http://htmlpreview.github.io/?https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/Club%20points%20Ranking%20graph.html).
 * [Clubs Goals Differences graph](http://htmlpreview.github.io/?https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/Clubs%20Goals%20Differences.html).
 * [Attack vs Deffence graph](http://htmlpreview.github.io/?https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/Attack%20vs%20Defense.html).
