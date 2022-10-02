@@ -1,5 +1,9 @@
 # Premier-League-Analysis
 
+* The Premier League (legal name: The Football Association Premier League Limited) is the highest level of the men's English football.
+* In this project our goal is to use both sql and python in order to make useful tables and graphs about premier league season 2018/2019
+* Download data from [here](https://sqlsoccer.com/set-up-scripts/)
+
 Check interactive graphs:
 * [Club points Ranking graph](http://htmlpreview.github.io/?https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/Club%20points%20Ranking%20graph.html).
 * [Clubs Goals Differences graph](http://htmlpreview.github.io/?https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/Clubs%20Goals%20Differences.html).
