@@ -1,6 +1,6 @@
 # Premier-League-Analysis
 
-<img src="https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/football.jpg" width=50% height=50%>
+<img src="https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/football.jpg" width=62% height=62%>
 
 
 * The Premier League (legal name: The Football Association Premier League Limited) is the highest level of the men's English football.
