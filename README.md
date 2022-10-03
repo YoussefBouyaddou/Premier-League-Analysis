@@ -1,5 +1,8 @@
 # Premier-League-Analysis
 
+<img src="https://github.com/YoussefBouyaddou/Premier-League-Analysis/blob/main/graphs/football.jpg" width=50% height=50%>
+
+
 * The Premier League (legal name: The Football Association Premier League Limited) is the highest level of the men's English football.
 * In this project our goal is to use both sql and python in order to make useful tables and graphs about premier league season 2018/2019
 * In this project i did visualisations using two methods, the first is usual graphs created using seaborn and matplotlib. while the second way is by using plotly so that i'll have interractive graphs.
